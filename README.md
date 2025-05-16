@@ -1,6 +1,8 @@
 ## Hi there 👋
 🔭 I’m currently working on improving my Python and web development skills.
+
 🌱 I’m currently learning problem-solving using data structures and algorithms.
+
 👯 I’m looking to collaborate on hackathons or student coding events.
 
 <!--
