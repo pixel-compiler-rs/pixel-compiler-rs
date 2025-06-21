@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on improving my Python and web development skills.
+🔭 I’m currently working on improving my Web development skills.
 
 🌱 I’m currently learning problem-solving using data structures and algorithms.
 
