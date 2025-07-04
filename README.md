@@ -2,14 +2,10 @@
 
 Aspiring developer passionate about building meaningful tech solutions. I’m currently diving deeper into core computer science fundamentals and C programming.
 
----
-
 ## 💼 Skills
 
 - **Languages & Tools**: Python, C, HTML/CSS, Java
 - **Soft Skills**: Teamwork, communication, creative problem-solving
-
----
 
 ## 🎓 Certifications
 
@@ -26,8 +22,6 @@ Aspiring developer passionate about building meaningful tech solutions. I’m cu
   - Healthy Living & Nutrition  
   - Vocational Engineering Skills (Basics of Carpentry, Electronics, Mechanical)
 
----
-
 ## 🏆 Achievements
 
 - **Top 50 – CodeCombat International Coding Competition**  
@@ -40,18 +34,12 @@ Aspiring developer passionate about building meaningful tech solutions. I’m cu
 - **Organizing Committee – Excel School**  
   Managed tech logistics, event planning, and content creation for school events.
 
----
-
----
-
 ###  🎵 Interests
 
 Outside of tech, I enjoy:
 
 - **Music Composition & Keyboard** (Trinity College London – Grades 1–3)  
 - **Drawing & Visual Arts** – Professionally trained; created 20+ original pieces
-
----
 
 <!--
 **pixel-compiler-rs/pixel-compiler-rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
