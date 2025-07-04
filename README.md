@@ -34,7 +34,7 @@ Aspiring developer passionate about building meaningful tech solutions. I’m cu
 - **Organizing Committee – Excel School**  
   Managed tech logistics, event planning, and content creation for school events.
 
-###  🎵 Interests
+##  🎵 Interests
 
 Outside of tech, I enjoy:
 
